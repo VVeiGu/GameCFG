@@ -1,7 +1,0 @@
-+cl_showfps 2       // See your speed and coordinates while playing
-+fps_max 0          // For an infinite FPS
-+cl_showpos 1       // Show Name, Position, Angle, and Velocity in-game. Important information can be used for a number of reasons to record data and stats.
--fullscreen         // Force run in fullscreen mode.
--high               // Started with a high priority
--dev -novid         // Disables all Apex Legends-related entrance videos and cutscenes
-+exec autoexec.cfg  // Executes autoexec.cfg file on startup
