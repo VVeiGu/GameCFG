@@ -1,0 +1,1 @@
++cl_showfps 2 +fps_max 0 +cl_showpos 1 -fullscreen -high -dev -novid +exec autoexec.cfg
