@@ -1,0 +1,11 @@
+SteamLaunchOptions-worldwide -high -novid -nojoy -tickrate 128 +exec autoexec.cfg
+-worldwide   进入国际服
+-high   设置为高优先级
+-novid   跳过开场动画
+-nojoy   不使用摇杆，可提高少部分性能
+-refresh 300   强制游戏的刷新率，效果与-freq相同
+-freq 300   强制游戏的刷新率，效果与-refresh相同
+-tickrate 128   设置游戏采样速率为128
++cl_updaterate 128   设置客户端上传速率，完美世界对战平台默认设置
++cl_cmdrate 128   设置客户端命令传输率，完美世界对战平台默认设置
++exec autoexec.cfg   运行autoexec.cfg文件
