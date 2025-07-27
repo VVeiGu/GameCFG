@@ -1,4 +1,4 @@
-SteamLaunchOptions-worldwide -high -novid -nojoy -tickrate 128 +exec autoexec.cfg
+-perfectworld -high -novid -nojoy -tickrate 128 +exec autoexec.cfg
 
 -worldwide   进入国际服
 -high   设置为高优先级
